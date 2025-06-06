@@ -1,6 +1,5 @@
 # Time Series Analysis Using Bitcoin
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A hands-on tutorial for forecasting Bitcoin prices with Statsmodels, packaged into two Docker workflows.
 
